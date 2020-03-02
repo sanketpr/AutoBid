@@ -1,0 +1,39 @@
+##MODE##
+[active:true]
+[remote:false]
+
+##BIDDING_TIME##
+[start: 08:00am]
+[finish:10:00am]
+ 
+##PROPOSAL##
+[Hi. My name is Hafiz, and i would like to work with you on this project
+
+You are welcome to view my portfolio from link below.
+
+www.portfolio.com]
+
+##PROJECT_DURATION##
+[7]
+
+##BID_AMOUNT##
+[<30:		30]
+[30-250:	120]
+[250-750:	500]
+[750-1500:	1200]
+[1500-5000:	3000]
+##SPONSORED_BID##
+[false]
+
+##TAGS##
+[3D modelling,3D rendering,AutoCAD,Google SketchUP]
+
+##COUNTRY_EXCEPTION##
+[Singapore]
+
+##BID_INTERVAL##
+[fixed: 	false]
+[variavle: 	true]
+
+##BID_LIMIT##
+[20]
